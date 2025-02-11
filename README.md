@@ -2,7 +2,7 @@
 
 Basit ve etkileşimli bir hediye çarkı uygulaması. Kullanıcılar çarkı çevirerek rastgele ödüller kazanabilirler.
 
-🔗 [Demo](https://proje.alperenirtik.com/proje/whell/)
+🔗 [Demo'ya Git](https://proje.alperenirtik.com/proje/whell/)
 
 ## Özellikler
 
@@ -50,9 +50,9 @@ Her dilimin kendine özel rengi `color` özelliği ile belirlenebilir (HEX renk 
 
 ## Geliştirici
 
-[Alperen İrtik](https://github.com/alperenirtik)
-[Kişisel Web Sitem](https://alperenirtik.com)
-[Firma Sitem](https://ankasoftyazilim.com)
+- [Alperen İrtik](https://github.com/alperenirtik)
+- [Kişisel Web Sitem](https://alperenirtik.com)
+- [Firma Sitem](https://ankasoftyazilim.com)
 
 ## Lisans
 
