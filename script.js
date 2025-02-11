@@ -247,7 +247,6 @@ class WheelGame {
         document.querySelector('.marker').classList.add('swaying');
 
         setTimeout(() => {
-            this.isSpinning = false;
             document.querySelector('.marker').classList.remove('swaying');
 
             // Gift ikonunu gizle ve start ikonunu göster
@@ -256,8 +255,6 @@ class WheelGame {
             setTimeout(() => {
                 giftIcon.style.display = 'none';
                 document.querySelector('.start-icon').style.opacity = '1';
-                // Spinning class'ını kaldır
-                this.spinButton.classList.remove('spinning');
             }, 300);
 
             // Kazanma sesini çal
@@ -328,6 +325,10 @@ class WheelGame {
                     // Sweet Alert kapandıktan sonra çarkı sıfırla
                     this.wheel.style.transition = 'none';
                     this.wheel.style.transform = 'rotate(0deg)';
+
+                    // Spinning class'ını kaldır ve isSpinning'i false yap
+                    this.spinButton.classList.remove('spinning');
+                    this.isSpinning = false;
                 });
             }, 2000);
         }, 4000);
