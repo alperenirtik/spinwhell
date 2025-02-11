@@ -50,7 +50,6 @@ Her dilimin kendine özel rengi `color` özelliği ile belirlenebilir (HEX renk 
 
 ## Geliştirici
 
-- [Alperen İrtik](https://github.com/alperenirtik)
 - [Kişisel Web Sitem](https://alperenirtik.com)
 - [Firma Sitem](https://ankasoftyazilim.com)
 
