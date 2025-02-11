@@ -1,0 +1,63 @@
+{
+    "title": "Hediye Çarkı - Github Proje Alperen İrtik",
+    "prizes": [{
+            "slot_id": 0,
+            "slot_text": "50₺ Çek",
+            "color": "#494c62f0",
+            "probability": 35
+        },
+        {
+            "slot_id": 1,
+            "slot_text": "100₺ Çek",
+            "color": "#c89b0e80",
+            "probability": 25
+        },
+        {
+            "slot_id": 2,
+            "slot_text": "Kulaklık",
+            "color": "#1a7bc180",
+            "probability": 20
+        },
+        {
+            "slot_id": 3,
+            "slot_text": "Tablet",
+            "color": "#8153e880",
+            "probability": 10
+        },
+        {
+            "slot_id": 4,
+            "slot_text": "iPhone 14",
+            "color": "#26a91d80",
+            "probability": 5
+        },
+        {
+            "slot_id": 5,
+            "slot_text": "Buzdolabı",
+            "color": "#ff5e3a80",
+            "probability": 4
+        },
+        {
+            "slot_id": 6,
+            "slot_text": "PlayStation",
+            "color": "#4287f580",
+            "probability": 3
+        },
+        {
+            "slot_id": 7,
+            "slot_text": "MacBook Pro",
+            "color": "#a0a0a080",
+            "probability": 2
+        },
+        {
+            "slot_id": 8,
+            "slot_text": "Akıllı TV",
+            "color": "#e91e6380",
+            "probability": 1
+        }
+    ],
+    "alert": {
+        "title": "Tebrikler!",
+        "prizeText": "Kazandığınız ödül:",
+        "confirmButton": "Tamam"
+    }
+}
